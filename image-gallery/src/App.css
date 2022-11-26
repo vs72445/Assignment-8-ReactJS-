@@ -1,0 +1,20 @@
+
+* {
+  box-sizing: border-box;
+  margin-top: 0;
+}
+
+.title {
+  background-color: rgba(0, 0, 0, 0.85);
+  padding: 20px 0 5px;
+  margin-bottom: 11px;
+}
+
+h1 {
+  text-align: center;
+  color: whitesmoke;
+}
+
+p {
+  text-align: center;
+}
